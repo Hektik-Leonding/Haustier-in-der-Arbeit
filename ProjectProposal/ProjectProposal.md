@@ -6,16 +6,16 @@ Die Vorteile dieser Idee, werden weiter unten, beziehungsweise in Links, erläut
 ## Inhaltsverzeichnis
 [Ausgangssituation](Ausgangssituation.md)
 
-## Notwendigkeit
+## Notwendigkeit/Nesessity
+[Notwenigkeit](Notwendigkeit.md)
+
+## Machbarkeit/Feasability
 
 
-## Machbarkeit
+## Finanzierung/Finance
 
 
-## Finanzierung
-
-
-## Markt
+## Markt/Market Situation
 
 
 ## Risiken und Moeglichkeiten
