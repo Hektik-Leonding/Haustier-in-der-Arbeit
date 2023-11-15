@@ -16,7 +16,7 @@ Die Vorteile dieser Idee, werden weiter unten, beziehungsweise in Links, erläut
 
 
 ## Markt/Market Situation
-
+[Markt](Markt.md)
 
 ## Risiken und Moeglichkeiten
 [RisikenUndMoeglichkeiten](RisikenUndMoeglichkeiten.md)
