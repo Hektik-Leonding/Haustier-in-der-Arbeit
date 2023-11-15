@@ -13,7 +13,7 @@ Die Vorteile dieser Idee, werden weiter unten, beziehungsweise in Links, erläut
 [Machbarkeit](Machbarkeit.md)
 
 ## Finanzierung/Finance
-
+[Finanzierung](Finanzierung.md)
 
 ## Markt/Market Situation
 [Markt](Markt.md)
