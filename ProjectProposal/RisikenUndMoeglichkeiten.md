@@ -8,4 +8,5 @@ Gründe, warum sich Betriebe dagegen entscheiden könnten.
 Allergien. 
 Mangelndes Interesse, zu investieren. (Geistig unbewegliche Chefs, ohne Visionen). 
 Kosten zu hoch, im Vergleich zum erwarteten Gewinn. 
-Vorschriften seitens des Staates, die es ihnen erschweren, oder unmöglich machen. 
+
+### Sicherheitsmaßnahmen 
