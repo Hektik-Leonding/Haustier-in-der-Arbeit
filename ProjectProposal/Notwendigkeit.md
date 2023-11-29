@@ -17,4 +17,4 @@ Arbeitslosenquote – Eurostat‐Berechnung
 Jugendliche (unter 25 Jahre)** 12,2% +0,5 %‐Punkte
 
 
-### Damit ist klar, dass ein verbessertes Betriebsklima nötig ist, um dauerhaft Personal binden zu können. Aktionen, wie Haustier in der Arbeit, werden dazu beitragen.
+**Damit ist klar, dass ein verbessertes Betriebsklima nötig ist, um dauerhaft Personal binden zu können. Aktionen, wie Haustier in der Arbeit, werden dazu beitragen.**
