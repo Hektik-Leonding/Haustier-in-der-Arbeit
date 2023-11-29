@@ -7,9 +7,11 @@ Der eine oder andere Betrieb, in dem die Mitarbeiter Stimmung sehr schlecht ist,
 Gründe, warum sich Betriebe dagegen entscheiden könnten. 
 Allergien. 
 Mangelndes Interesse, zu investieren. (Geistig unbewegliche Chefs, ohne Visionen). 
-Kosten zu hoch, im Vergleich zum erwarteten Gewinn. 
+Kosten zu hoch, im Vergleich zum erwarteten Gewinn, beziehungsweise zu zögerlich bei Entscheidungen. 
 
-### Sicherheitsmaßnahmen 
+
+
+## Sicherheitsmaßnahmen 
 Vorschriften seitens des Staates, die es ihnen erschweren, oder unmöglich machen. 
 
 Seitens des Staates gibt es Einschränkungen: 
