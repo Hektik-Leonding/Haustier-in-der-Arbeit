@@ -18,3 +18,13 @@ Jugendliche (unter 25 Jahre)** 12,2% +0,5 %‐Punkte
 
 
 **Damit ist klar, dass ein verbessertes Betriebsklima nötig ist, um dauerhaft Personal binden zu können. Aktionen, wie Haustier in der Arbeit, werden dazu beitragen.**
+
+
+## Sicherheitsmaßnahmen
+### Umgang mit Allergien und Ängsten
+Bevor Tiere mit zur Arbeit genommen werden dürfen, wird eine anonyme Umfrage unter den Mitarbeitern gemacht, ob jemand allergisch gegen bestimmte Tiere ist oder Angst vor Ihnen hat.
+
+Das Team sollte über Anwesenheiten von Tieren im Büro informiert werden, um sicherzustellen, dass jeder darauf vorbereitet ist.
+
+### Erste-Hilfe-Ausrüstung
+Das Büro wird mit Erste-Hilfe-Kits ausgestattet, die sowohl für Menschen als auch für Tiere geeignet sind. 
