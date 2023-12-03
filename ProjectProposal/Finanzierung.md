@@ -8,4 +8,5 @@ Der Staat braucht oftmals länger, um gute Projekte zu unterstützen. Aber in di
 
 Langfristig betrachtet, braucht es seitens der Ideenlieferer ein kleines Team, um die Software zu pflegen und Kontakt mit den Kunden zu halten. Diese Kosten hat der Staat nach einem Jahr schon lange durch höhere und stabilere Steuereinnahmen kompensiert. 
 
-Zumindest ein Programmierer für die Datensicherheit, einer für die Datenpflege und ein Projektkoordinator, werden als Minimum angesehen. 
+Zumindest ein Programmierer für die Datensicherheit, einer für die Datenpflege und ein Projektkoordinator, der die Website zusätzlich betreut, werden als Minimum für die Erhaltung des Projektes, angesehen. 
+Die Einstiegsgehälter für Programmierer bewegen sich zwischen 2.500 und 3.500 Euro Brutto. Plus Überzahlung für Erfahrung. Somit ist es empfehlenswert, das Projekt bei einem größeren Betrieb, oder einer großen Firma zu beginnen, die derartige Kosten tragen können. 
