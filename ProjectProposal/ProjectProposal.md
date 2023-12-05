@@ -1,5 +1,7 @@
 # Haustier in der Arbeit
 
+![Alt text](image.png)
+
 In diesem Projekt geht es um die Idee, Haustiere mit in den Betrieb mitzunehmen.
 Die Vorteile dieser Idee, werden weiter unten, beziehungsweise in Links, erläutert. 
 
