@@ -1,5 +1,6 @@
 # HaustierInDerArbeit / Bring your Pet to Work Day
 
+Projekt von Mathias Anderl und Florian Penninger. 3ACIF. 
 
 
 ## Die Idee ist es, dass ein Haustier eine wohltuende Wirkung auf Angestellte hat.
