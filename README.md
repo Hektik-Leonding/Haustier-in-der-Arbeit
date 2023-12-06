@@ -19,7 +19,10 @@ Haustier in der Arbeit zur Verbesserung von Stress und Athmosphäre.
 ### Ziele und Ergebnisse:
 - Steigerung der Mitarbeiterzufriedenheit und des Wohlbefindens.
 - Förderung der Stressreduktion und der positiven Stimmung am Arbeitsplatz.
+- Reduzierung von Burnout 
+- Stärkung der Bindung zwischen Mitarbeitern und ihren Haustieren
 - Stärkung des Teamgeists und der Zusammenarbeit.
+- Arbeitsmoral und Produktivität verbessern 
 
 ### Zeitplan:
 - Start von "Bring Your Pet to Work Day": [Startdatum]
@@ -27,7 +30,7 @@ Haustier in der Arbeit zur Verbesserung von Stress und Athmosphäre.
 - Bewertung der Veranstaltung und Feedback von Mitarbeitern: [Abschlussdatum]
 
 ### Budget:
-Das Budget für "Bring Your Pet to Work Day" wird für die Organisation von Aktivitäten, die Bereitstellung von tierfreundlichen Einrichtungen und die Kommunikation von Richtlinien verwendet.
+Beim Budget für "Bring Your Pet to Work Day" werden verschiedene Ausgaben eingeplant. Dazu gehört die Organisation von Aktivitäten, wie spezielle Veranstaltungen. Es wird auch Geld für tierfreundliche Einrichtungen eingeplant, wie zum Beispiel für den Kauf von Haustierbetten, Spielzeug und Wasser- oder Futternäpfen. 
 
 ### Schlussfolgerung:
 "Bring Your Pet to Work Day" ist eine großartige Gelegenheit, die Arbeitsumgebung zu verbessern, die Mitarbeiterzufriedenheit zu steigern und eine entspannte und tierfreundliche Atmosphäre zu schaffen. Wir freuen uns darauf, die positiven Auswirkungen dieser Initiative auf unsere Arbeitskultur zu erleben.
