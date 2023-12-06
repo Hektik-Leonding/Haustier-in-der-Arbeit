@@ -11,7 +11,7 @@ Haustier in der Arbeit zur Verbesserung von Stress und Athmosphäre.
 **Mit "Bring Your Pet to Work Day" möchten wir einen Tag im Monat einführen, an dem Mitarbeiter ihre Haustiere mit zur Arbeit bringen dürfen. Dies fördert eine stressfreie und motivierende Arbeitsumgebung, steigert die Mitarbeiterzufriedenheit und stärkt die Bindung innerhalb des Teams.**
 
 ### Projektbeschreibung:
-"Bring Your Pet to Work Day" ist eine Initiative/Vorhaben, die das Büro in eine tierfreundliche und stressreduzierende Umgebung verwandelt. An diesem Tag können Mitarbeiter ihre Haustiere, sei es Hunde, Katzen, Vögel oder andere Tiere, mit ins Büro bringen. Dies schafft eine entspannte und freundliche Atmosphäre, in der Mitarbeiter und ihre Tiere gemeinsam arbeiten können.
+"Bring Your Pet to Work Day" ist eine Initiative/Vorhaben, die das Büro in eine tierfreundliche und stressreduzierende Umgebung verwandelt. An diesem Tag können Mitarbeiter ihre Haustiere, sei es Hunde, Katzen, Vögel oder andere Tiere, mit ins Büro bringen. Dies schafft eine entspannte und freundliche Atmosphäre, in der Mitarbeiter, umgeben von ihren Haustieren, arbeiten können.
 
 ### Projektumfang:
 "Bring Your Pet to Work Day" wird einmal im Monat stattfinden und eine entspannte und tierfreundliche Arbeitsatmosphäre fördern. Regeln und Richtlinien für die Teilnahme von Haustieren werden vorbereitet und mit den Mitarbeitern geteilt.
