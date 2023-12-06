@@ -32,9 +32,4 @@ Das Budget für "Bring Your Pet to Work Day" wird für die Organisation von Akti
 ### Schlussfolgerung:
 "Bring Your Pet to Work Day" ist eine großartige Gelegenheit, die Arbeitsumgebung zu verbessern, die Mitarbeiterzufriedenheit zu steigern und eine entspannte und tierfreundliche Atmosphäre zu schaffen. Wir freuen uns darauf, die positiven Auswirkungen dieser Initiative auf unsere Arbeitskultur zu erleben.
 
-### Anhänge:
-- Richtlinien für "Bring Your Pet to Work Day"
-- Budgetschätzung
-- Feedback-Umfrage für Mitarbeiter
-
 Dieser Projektvorschlag zielt darauf ab, die Bindung zwischen Mitarbeitern und ihren Haustieren zu stärken, die Büroatmosphäre aufzulockern und die Mitarbeiterzufriedenheit zu steigern. "Bring Your Pet to Work Day" kann eine fröhliche und stressreduzierende Erfahrung für das Team schaffen.
